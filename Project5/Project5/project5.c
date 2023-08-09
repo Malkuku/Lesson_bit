@@ -13,5 +13,14 @@ int main()
 	int t1_2 = test1_2(i, j);
 	printf("test1_2: %d\n", t1_2);
 
+
+
+	//test3  整形提升
+	char a = 3;
+	char b = 127;
+	char c = a + b;
+
+	printf("整形提升：%d\n", c);
+
 	return 0;
 }
