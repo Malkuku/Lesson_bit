@@ -1,0 +1,6 @@
+﻿  reverse.c
+  test.c
+Q:\C\Lesson_bit\Project7\Project7\test.c(13,6): warning C4013: “gets”未定义；假设外部返回 int
+  work4.c
+  正在生成代码...
+  Project7.vcxproj -> Q:\C\Lesson_bit\Project7\Debug\Project7.exe
